@@ -1,3 +1,17 @@
+# Project Name
+A brief description of what this project does and who it's for.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+Step-by-step instructions on how to get the project running:
+```bash
+# Example
+git clone <repository-url>
+cd project-folder
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
